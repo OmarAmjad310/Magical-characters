@@ -8,4 +8,4 @@
 
 
 # Harry Potter house deploy
-![Magical-characters](https://omaramjad310.github.io/Magical-characters/)
+[Magical-characters](https://omaramjad310.github.io/Magical-characters/)
